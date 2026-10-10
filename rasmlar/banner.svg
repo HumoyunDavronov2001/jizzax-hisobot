@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="JIZZAX HISOBOT — 13 tuman hisobotini viloyat jamlaydigan tizim">
+  <defs>
+    <linearGradient id="fon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1626"/>
+      <stop offset="1" stop-color="#12395c"/>
+    </linearGradient>
+    <pattern id="tor" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1a2c45" stroke-width="1"/>
+    </pattern>
+    <style>
+      .sarlavha{font:800 54px 'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif;fill:#f8fafc;letter-spacing:1px}
+      .izoh{font:500 22px 'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif;fill:#9fb3c8}
+      .teg{font:600 15px 'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif;fill:#cbd5e1}
+      .yorliq{font:700 12px 'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif;fill:#8cc5ff;letter-spacing:2px}
+      .jami{font:800 30px 'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif;fill:#f8fafc}
+    </style>
+  </defs>
+  <rect width="1280" height="360" fill="url(#fon)"/>
+  <rect width="1280" height="360" fill="url(#tor)" opacity=".55"/>
+
+  <g transform="translate(64 0)">
+    <rect x="0" y="70" width="56" height="56" rx="14" fill="#2a78d6"/>
+    <g fill="none" stroke="#e6f0ff" stroke-width="3.2" stroke-linecap="round">
+      <line x1="14" y1="84" x2="42" y2="84"/><line x1="14" y1="95" x2="42" y2="95"/>
+      <line x1="14" y1="106" x2="32" y2="106"/>
+    </g>
+    <path d="M34 110 L38 114 L46 104" fill="none" stroke="#1baf7a" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text class="sarlavha" x="0" y="190">JIZZAX HISOBOT</text>
+    <text class="izoh" x="0" y="232">13 tuman kiritadi — viloyat bir ekranda jamlaydi</text>
+    <g transform="translate(0 270)">
+      <rect width="80" height="30" rx="15" fill="#1e3a5c"/><text class="teg" x="40" y="20" text-anchor="middle">Python</text>
+      <rect x="90" width="86" height="30" rx="15" fill="#1e3a5c"/><text class="teg" x="133" y="20" text-anchor="middle">SQLite</text>
+      <rect x="186" width="76" height="30" rx="15" fill="#1e3a5c"/><text class="teg" x="224" y="20" text-anchor="middle">Excel</text>
+      <rect x="272" width="88" height="30" rx="15" fill="#1e3a5c"/><text class="teg" x="316" y="20" text-anchor="middle">Docker</text>
+      <rect x="370" width="132" height="30" rx="15" fill="#1e3a5c"/><text class="teg" x="436" y="20" text-anchor="middle">Lotin · Кирилл</text>
+    </g>
+  </g>
+
+  <!-- 13 tuman ustuni to'ladi, viloyat jami chiqadi (SMIL) -->
+  <g>
+    <text class="yorliq" x="800" y="60">TUMANLAR · KUNLIK HISOBOT</text>
+    <line x1="796" y1="262" x2="1166" y2="262" stroke="#4b6584" stroke-width="1.5"/>
+    <line x1="796" y1="122" x2="1166" y2="122" stroke="#8cc5ff" stroke-opacity=".5" stroke-dasharray="6 6"/>
+    <text class="yorliq" x="1170" y="126" style="fill:#8cc5ff;letter-spacing:0">100%</text>
+    <rect x="800" y="262" width="18" height="0" rx="3" fill="#2a78d6">
+      <animate attributeName="height" values="0;117;117;0" keyTimes="0;.35;.85;1" dur="7s" begin="0.00s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="262;145;145;262" keyTimes="0;.35;.85;1" dur="7s" begin="0.00s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="809.0" cy="278" r="4" fill="#334155">
+      <animate attributeName="fill" values="#334155;#334155;#1baf7a;#1baf7a;#334155" keyTimes="0;.3;.36;.85;1" dur="7s" begin="0.00s" repeatCount="indefinite"/>
+    </circle><rect x="828" y="262" width="18" height="0" rx="3" fill="#2a78d6">
+      <animate attributeName="height" values="0;131;131;0" keyTimes="0;.35;.85;1" dur="7s" begin="0.15s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="262;131;131;262" keyTimes="0;.35;.85;1" dur="7s" begin="0.15s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="837.0" cy="278" r="4" fill="#334155">
+      <animate attributeName="fill" values="#334155;#334155;#1baf7a;#1baf7a;#334155" keyTimes="0;.3;.36;.85;1" dur="7s" begin="0.15s" repeatCount="indefinite"/>
+    </circle><rect x="856" y="262" width="18" height="0" rx="3" fill="#2a78d6">
+      <animate attributeName="height" values="0;119;119;0" keyTimes="0;.35;.85;1" dur="7s" begin="0.30s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="262;143;143;262" keyTimes="0;.35;.85;1" dur="7s" begin="0.30s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="865.0" cy="278" r="4" fill="#334155">
+      <animate attributeName="fill" values="#334155;#334155;#1baf7a;#1baf7a;#334155" keyTimes="0;.3;.36;.85;1" dur="7s" begin="0.30s" repeatCount="indefinite"/>
+    </circle><rect x="884" y="262" width="18" height="0" rx="3" fill="#2a78d6">
+      <animate attributeName="height" values="0;117;117;0" keyTimes="0;.35;.85;1" dur="7s" begin="0.45s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="262;145;145;262" keyTimes="0;.35;.85;1" dur="7s" begin="0.45s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="893.0" cy="278" r="4" fill="#334155">
+      <animate attributeName="fill" values="#334155;#334155;#1baf7a;#1baf7a;#334155" keyTimes="0;.3;.36;.85;1" dur="7s" begin="0.45s" repeatCount="indefinite"/>
+    </circle><rect x="912" y="262" width="18" height="0" rx="3" fill="#2a78d6">
+      <animate attributeName="height" values="0;125;125;0" keyTimes="0;.35;.85;1" dur="7s" begin="0.60s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="262;137;137;262" keyTimes="0;.35;.85;1" dur="7s" begin="0.60s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="921.0" cy="278" r="4" fill="#334155">
+      <animate attributeName="fill" values="#334155;#334155;#1baf7a;#1baf7a;#334155" keyTimes="0;.3;.36;.85;1" dur="7s" begin="0.60s" repeatCount="indefinite"/>
+    </circle><rect x="940" y="262" width="18" height="0" rx="3" fill="#2a78d6">
+      <animate attributeName="height" values="0;135;135;0" keyTimes="0;.35;.85;1" dur="7s" begin="0.75s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="262;127;127;262" keyTimes="0;.35;.85;1" dur="7s" begin="0.75s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="949.0" cy="278" r="4" fill="#334155">
+      <animate attributeName="fill" values="#334155;#334155;#1baf7a;#1baf7a;#334155" keyTimes="0;.3;.36;.85;1" dur="7s" begin="0.75s" repeatCount="indefinite"/>
+    </circle><rect x="968" y="262" width="18" height="0" rx="3" fill="#2a78d6">
+      <animate attributeName="height" values="0;84;84;0" keyTimes="0;.35;.85;1" dur="7s" begin="0.90s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="262;178;178;262" keyTimes="0;.35;.85;1" dur="7s" begin="0.90s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="977.0" cy="278" r="4" fill="#334155">
+      <animate attributeName="fill" values="#334155;#334155;#1baf7a;#1baf7a;#334155" keyTimes="0;.3;.36;.85;1" dur="7s" begin="0.90s" repeatCount="indefinite"/>
+    </circle><rect x="996" y="262" width="18" height="0" rx="3" fill="#2a78d6">
+      <animate attributeName="height" values="0;83;83;0" keyTimes="0;.35;.85;1" dur="7s" begin="1.05s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="262;179;179;262" keyTimes="0;.35;.85;1" dur="7s" begin="1.05s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="1005.0" cy="278" r="4" fill="#334155">
+      <animate attributeName="fill" values="#334155;#334155;#1baf7a;#1baf7a;#334155" keyTimes="0;.3;.36;.85;1" dur="7s" begin="1.05s" repeatCount="indefinite"/>
+    </circle><rect x="1024" y="262" width="18" height="0" rx="3" fill="#2a78d6">
+      <animate attributeName="height" values="0;125;125;0" keyTimes="0;.35;.85;1" dur="7s" begin="1.20s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="262;137;137;262" keyTimes="0;.35;.85;1" dur="7s" begin="1.20s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="1033.0" cy="278" r="4" fill="#334155">
+      <animate attributeName="fill" values="#334155;#334155;#1baf7a;#1baf7a;#334155" keyTimes="0;.3;.36;.85;1" dur="7s" begin="1.20s" repeatCount="indefinite"/>
+    </circle><rect x="1052" y="262" width="18" height="0" rx="3" fill="#2a78d6">
+      <animate attributeName="height" values="0;120;120;0" keyTimes="0;.35;.85;1" dur="7s" begin="1.35s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="262;142;142;262" keyTimes="0;.35;.85;1" dur="7s" begin="1.35s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="1061.0" cy="278" r="4" fill="#334155">
+      <animate attributeName="fill" values="#334155;#334155;#1baf7a;#1baf7a;#334155" keyTimes="0;.3;.36;.85;1" dur="7s" begin="1.35s" repeatCount="indefinite"/>
+    </circle><rect x="1080" y="262" width="18" height="0" rx="3" fill="#2a78d6">
+      <animate attributeName="height" values="0;140;140;0" keyTimes="0;.35;.85;1" dur="7s" begin="1.50s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="262;122;122;262" keyTimes="0;.35;.85;1" dur="7s" begin="1.50s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="1089.0" cy="278" r="4" fill="#334155">
+      <animate attributeName="fill" values="#334155;#334155;#1baf7a;#1baf7a;#334155" keyTimes="0;.3;.36;.85;1" dur="7s" begin="1.50s" repeatCount="indefinite"/>
+    </circle><rect x="1108" y="262" width="18" height="0" rx="3" fill="#2a78d6">
+      <animate attributeName="height" values="0;138;138;0" keyTimes="0;.35;.85;1" dur="7s" begin="1.65s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="262;124;124;262" keyTimes="0;.35;.85;1" dur="7s" begin="1.65s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="1117.0" cy="278" r="4" fill="#334155">
+      <animate attributeName="fill" values="#334155;#334155;#1baf7a;#1baf7a;#334155" keyTimes="0;.3;.36;.85;1" dur="7s" begin="1.65s" repeatCount="indefinite"/>
+    </circle><rect x="1136" y="262" width="18" height="0" rx="3" fill="#2a78d6">
+      <animate attributeName="height" values="0;83;83;0" keyTimes="0;.35;.85;1" dur="7s" begin="1.80s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="262;179;179;262" keyTimes="0;.35;.85;1" dur="7s" begin="1.80s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="1145.0" cy="278" r="4" fill="#334155">
+      <animate attributeName="fill" values="#334155;#334155;#1baf7a;#1baf7a;#334155" keyTimes="0;.3;.36;.85;1" dur="7s" begin="1.80s" repeatCount="indefinite"/>
+    </circle>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.5;.56;.85;1" dur="7s" begin="1.8s" repeatCount="indefinite"/>
+      <rect x="1000" y="76" width="150" height="30" rx="8" fill="#0b1626" stroke="#1baf7a"/>
+      <text class="yorliq" x="1075" y="96" text-anchor="middle" style="fill:#5eead4;letter-spacing:1px">13 / 13 TOPSHIRDI</text>
+    </g>
+  </g>
+</svg>
